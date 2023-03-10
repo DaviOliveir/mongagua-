@@ -1,0 +1,48 @@
+ 
+ h1{
+
+    color: rgb(12, 2, 102);
+    text-align: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 20px 30px 40px;
+    border-width: 8px; border-style: solid ; border-color: darkmagenta ; border-radius: 50;
+    border: 1px solid; box-shadow: 0 0 15px 5px rgb(53, 84, 187);
+    background-color: rgb(59, 248, 201);
+
+}
+
+p{
+
+    color: black;
+    font-size: 25px;
+    margin: 10px 1550px 30px 40px;
+    
+    border-width: 8px; border-style: solid ; border-color: darkmagenta ; border-radius: 50;
+    border: 1px solid; box-shadow: 0 0 15px 5px rgb(53, 84, 187);
+    background-color: rgb(59, 248, 201);
+
+    text-align: center;
+}
+.opa{
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+
+
+}
+.box {
+
+    width: 100%;
+    height: 1000px;
+    background-image: url(g_55_5_4_21052021184403.jpg) ;
+    opacity: 0.8;
+    transition:1.5s ;
+
+}
+.box:hover{
+
+opacity: 1.0;
+
+}
+
