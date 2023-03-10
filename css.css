@@ -11,16 +11,38 @@
     background-color: rgb(59, 248, 201);
 
 }
+#bor {
+    margin: 10px 20px 30px 40px;
+    border-width: 8px; border-style: solid ; border-color: black ; border-radius: 70;
+    border: 5px solid; box-shadow: 0 0 15px 5px black;
+    
+    
 
-p{
+
+}
+
+#n {
 
     color: black;
-    font-size: 25px;
-    margin: 10px 1550px 30px 40px;
+    font-size: 24px;
+    margin: 10px 30px 30px 40px;
+    
+    border-width: 8px; border-style: solid ; border-color: darkmagenta ; border-radius: 50;
+    border: 1px solid; box-shadow: 0 0 15px 5px rgb(86, 185, 255);
+    background-color: rgb(106, 231, 253);
+
+    
+}
+
+#m {
+
+    color: black;
+    font-size: 23px;
+    margin: 10px 1000px 30px 40px;
     
     border-width: 8px; border-style: solid ; border-color: darkmagenta ; border-radius: 50;
     border: 1px solid; box-shadow: 0 0 15px 5px rgb(53, 84, 187);
-    background-color: rgb(59, 248, 201);
+    background-color: rgb(105, 220, 255);
 
     text-align: center;
 }
@@ -43,6 +65,35 @@ p{
 .box:hover{
 
 opacity: 1.0;
+
+}
+
+#t{
+    color: black;
+    font-size: 23px;
+    margin: 10px 1000px 30px 40px;
+    
+    border-width: 8px; border-style: solid ; border-color: darkmagenta ; border-radius: 50;
+    border: 1px solid; box-shadow: 0 0 15px 5px rgb(53, 84, 187);
+    background-color: rgb(105, 220, 255);
+
+    text-align: center;
+
+
+}
+
+#link{
+    color: black;
+    font-size: 15px;
+    margin: 10px 1000px 30px 40px;
+    
+    border-width: 8px; border-style: solid ; border-color: darkmagenta ; border-radius: 50;
+    border: 1px solid; box-shadow: 0 0 15px 5px rgb(53, 84, 187);
+    background-color: rgb(105, 220, 255);
+
+    text-align: center;
+
+
 
 }
 
